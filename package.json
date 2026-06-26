@@ -1,9 +1,11 @@
 {
-  "name": "saiyan-bot",
+  "name": "magnus-bot",
   "version": "1.0.0",
-  "description": "My first bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "fca-unofficial": "latest"
   }
 }
